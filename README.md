@@ -1,4 +1,4 @@
-# LousaBan - Quadro Kanban Inteligente
+# LousaBan - Quadro Estilo Kanban Inteligente
 
 LousaBan é uma aplicação web de quadro Kanban colaborativo, simples e visual, para organizar tarefas e fluxos de trabalho.
 
