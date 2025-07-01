@@ -1,0 +1,5 @@
+{
+  "name": "LousaBan - Quadro Kanban Inteligente",
+  "description": "Uma aplicação de quadro Kanban interativa e visualmente atraente para gerenciar fluxos de trabalho. Crie colunas, adicione tarefas como cartões, defina limites de trabalho em andamento (WIP) e mova cartões entre as colunas com uma interface de arrastar e soltar suave. Ideal para equipes que buscam visualizar o trabalho, otimizar processos e praticar a melhoria contínua.",
+  "requestFramePermissions": []
+}
